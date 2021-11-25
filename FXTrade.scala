@@ -1,0 +1,3 @@
+//class FXTrade extends Trade() {
+//
+//}
